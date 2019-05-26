@@ -14,7 +14,7 @@ Dependencies
 ------------
 
 * URI: git://git.openembedded.org/openembedded-core
-* branch: master
+* branch: warrior
 * revision: HEAD
 
 Additionally, the meta-multimedia and meta-oe layers of the meta-openembedded repo at
@@ -132,6 +132,7 @@ Below is a list of all configuration values for enabling additional plugins and 
     * `opusparse` : Opus bitstream parser plugin
     * `resindvd` : DVD navigation and playback plugin
     * `rtmp` : Real Time Messaging Protocol (RTMP) plugins
+    * `sctp` : Stream Control Transmission Protocol (SCTP) plugin
     * `srtp` : RFC 3711 SRTP plugin
     * `ttml` : Timed Text Markup Language plugins
     * `voaacenc` : OpenCORE based AAC encoder plugin
